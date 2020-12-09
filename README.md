@@ -56,3 +56,10 @@ For example:
 1. turn on 0,0 through 0,0 would increase the total brightness by 1
 2. toggle 0,0 through 999,999 would increase the total brightness by 2000000.
 
+
+## Fizz Buzz Kata
+Write a program that prints one line for each number from 1 to 100
+
+1. For multiples of three print Fizz instead of the number
+2. For the multiples of five print Buzz instead of the number
+3. For numbers which are multiples of both three and five print FizzBuzz instead of the number
