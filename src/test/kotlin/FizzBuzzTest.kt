@@ -23,7 +23,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 3 when enter Fizz`() {
+    fun `should return Fizz when enter 3`() {
         //GIVE
         val enter = 3
         val fizzBuzzResult = "Fizz"
@@ -45,7 +45,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 5 when enter Buzz`() {
+    fun `should return Buzz when enter 5`() {
         //GIVE
         val enter = 5
         val fizzBuzzResult = "Buzz"
@@ -56,7 +56,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 6 when enter Fizz`() {
+    fun `should return Fizz when enter 6`() {
         //GIVE
         val enter = 6
         val fizzBuzzResult = "Fizz"
@@ -67,7 +67,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 9 when enter Fizz`() {
+    fun `should return Fizz when enter 9`() {
         //GIVE
         val enter = 9
         val fizzBuzzResult = "Fizz"
@@ -78,7 +78,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 10 when enter Buzz`() {
+    fun `should return Buzz when enter 10`() {
         //GIVE
         val enter = 10
         val fizzBuzzResult = "Buzz"
@@ -89,7 +89,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 12 when enter Fizz`() {
+    fun `should return Fizz when enter 12`() {
         //GIVE
         val enter = 12
         val fizzBuzzResult = "Fizz"
@@ -100,7 +100,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 15 when enter FizzBuzz`() {
+    fun `should return FizzBuzz when enter 15`() {
         //GIVE
         val enter = 15
         val fizzBuzzResult = "FizzBuzz"
@@ -111,7 +111,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 25 when enter Buzz`() {
+    fun `should return Buzz when enter 25`() {
         //GIVE
         val enter = 25
         val fizzBuzzResult = "Buzz"
@@ -123,7 +123,7 @@ class FizzBuzzTest {
 
 
     @Test
-    fun `should return 75 when enter FizzBuzz`() {
+    fun `should return FizzBuzz when enter 75`() {
         //GIVE
         val enter = 75
         val fizzBuzzResult = "FizzBuzz"
@@ -145,7 +145,7 @@ class FizzBuzzTest {
     }
 
     @Test
-    fun `should return 100 when enter Buzz`() {
+    fun `should return Buzz when enter 100`() {
         //GIVE
         val enter = 100
         val fizzBuzzResult = "Buzz"
