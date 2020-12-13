@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ManhattanDistanceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-09T14:26:08" hostname="MrZ" time="0.021">
+<testsuite name="ManhattanDistanceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-13T01:25:36" hostname="mbp-de-mr.home" time="0.003">
   <properties/>
-  <testcase name="should return 4,0 from Point(0,0 , 0,0) to Point(2,0 , 2,0)" classname="ManhattanDistanceTest" time="0.021"/>
+  <testcase name="should return 3,0 from Point(0,0 , 1,0) to Point(2,0 , 2,0)" classname="ManhattanDistanceTest" time="0.001"/>
+  <testcase name="should return 6,4 from Point(3,6 , 2,8) to Point(9,9 , 2,9)" classname="ManhattanDistanceTest" time="0.001"/>
+  <testcase name="should return 4,0 from Point(0,0 , 0,0) to Point(2,0 , 2,0)" classname="ManhattanDistanceTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

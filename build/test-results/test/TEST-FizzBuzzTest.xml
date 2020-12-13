@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-12-13T01:25:36" hostname="mbp-de-mr.home" time="0.034">
+  <properties/>
+  <testcase name="should return Buzz when enter 100" classname="FizzBuzzTest" time="0.029"/>
+  <testcase name="should return FizzBuzz when enter 15" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return FizzBuzz when enter 75" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return 1 when enter 1" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return Fizz when enter 3" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return Fizz when enter 6" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="should return Fizz when enter 9" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return Buzz when enter 10" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="should return Buzz when enter 25" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return 98 when enter 98" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return Buzz when enter 5" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return 4 when enter 4" classname="FizzBuzzTest" time="0.0"/>
+  <testcase name="should return Fizz when enter 12" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

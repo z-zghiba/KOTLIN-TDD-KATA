@@ -1,7 +1,11 @@
 import com.mrz.tdd.fizzbuzz.FizzBuzz
 import org.junit.Before
 import org.junit.Test
+import java.util.*
+import kotlin.math.pow
+import kotlin.math.sqrt
 import kotlin.test.assertEquals
+
 
 class FizzBuzzTest {
     lateinit var fizzBuzz: FizzBuzz

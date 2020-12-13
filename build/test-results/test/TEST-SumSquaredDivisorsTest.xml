@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumSquaredDivisorsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-13T01:25:36" hostname="mbp-de-mr.home" time="0.654">
+  <properties/>
+  <testcase name="basicTests1" classname="SumSquaredDivisorsTest" time="0.194"/>
+  <testcase name="basicTests2" classname="SumSquaredDivisorsTest" time="0.005"/>
+  <testcase name="basicTests3" classname="SumSquaredDivisorsTest" time="0.454"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

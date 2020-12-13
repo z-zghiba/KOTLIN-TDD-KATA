@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChristmasLightsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-12-13T01:25:37" hostname="mbp-de-mr.home" time="0.225">
+  <properties/>
+  <testcase name="start from  bottom right" classname="ChristmasLightsTest" time="0.036"/>
+  <testcase name="calling toggle will return an exception IndexOutOfRange" classname="ChristmasLightsTest" time="0.178"/>
+  <testcase name="calling turnOFF will return an exception IndexOutOfRange" classname="ChristmasLightsTest" time="0.001"/>
+  <testcase name="calling turnON will return an exception IndexOutOfRange" classname="ChristmasLightsTest" time="0.001"/>
+  <testcase name="santa's instruction" classname="ChristmasLightsTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

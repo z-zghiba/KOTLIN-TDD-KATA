@@ -27,12 +27,12 @@ class LightsGrid() {
         }
     }
 
-    fun printGridLight(){
-        for (row in grid) {
-            for (col in row) print("$col ")
-            println()
-        }
-    }
+//    fun printGridLight(){
+//        for (row in grid) {
+//            for (col in row) print("$col ")
+//            println()
+//        }
+//    }
 
     enum class LightAction(val brightness: Int) {
         ON(1), OFF(-1), TOGGLE(2)

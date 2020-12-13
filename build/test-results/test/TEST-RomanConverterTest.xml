@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RomanConverterTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2020-12-13T01:25:36" hostname="mbp-de-mr.home" time="0.059">
+  <properties/>
+  <testcase name="should return LVI when convert 56" classname="RomanConverterTest" time="0.042"/>
+  <testcase name="should return MMMCCLXXIX when convert 3279" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return XXXV when convert 35" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return IV when convert 4" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return MMIII when convert 2003" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return V when convert 5" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return XCIX when convert 99" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return LXIX when convert 69" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return vMDLXXXIX when convert 6589" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return XLIX when convert 49" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return XXIV when convert 24" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return MCMXCIX when convert 1999" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return MCMXXV when convert 1925" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return III when convert 3" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return II when convert 2" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return VIII when convert 8" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return X when convert 10" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return MMMM when convert 4000" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return I when convert 1" classname="RomanConverterTest" time="0.0"/>
+  <testcase name="should return VI when convert 6" classname="RomanConverterTest" time="0.001"/>
+  <testcase name="should return IX when convert 9" classname="RomanConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
